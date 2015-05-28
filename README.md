@@ -1,4 +1,5 @@
 # tetoolkit-test-data
+## NOTE: Please use this data instead: [CSHL labshare in uncompressed formats.](http://labshare.cshl.edu/shares/mhammelllab/www-data/TEToolkit/) This data is for backup only.
 ## For use with [TEToolkit](https://github.com/mhammell-laboratory/tetoolkit)
 ###### May 28th, 2015 
 Github ultra compressed version of data needed for [Tetoolkit](http://hammelllab.labsites.cshl.edu/software/#TEToolkit)
