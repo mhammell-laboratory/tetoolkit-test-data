@@ -1,5 +1,5 @@
 # tetoolkit-test-data
-## NOTE: Do not use this repository, please goto [CSHL labshare in uncompressed formats.](http://labshare.cshl.edu/shares/mhammelllab/www-data/TEToolkit/) instead. This repository (tetoolkit-test-data) is for backup only.
+## NOTE: Do not use this repository, please goto [CSHL labshare, uncompressed formats](http://labshare.cshl.edu/shares/mhammelllab/www-data/TEToolkit/) instead. This repository (tetoolkit-test-data) is for backup only.
 ## For use with [TEToolkit](https://github.com/mhammell-laboratory/tetoolkit)
 ###### May 28th, 2015 
 Github ultra compressed version of data needed for [Tetoolkit](http://hammelllab.labsites.cshl.edu/software/#TEToolkit)
